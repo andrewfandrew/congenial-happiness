@@ -1,0 +1,7 @@
+congenial_happiness.keep_it_simple_form:
+  path: 'congenial-happiness/keep-simple-form'
+  defaults:
+    _form: '\Drupal\congenial_happiness\Form\KeepSimpleForm'
+    _title: 'Keep Simple Form'
+  requirements:
+    _permission: 'access content'

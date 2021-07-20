@@ -1,0 +1,6 @@
+name: Congenial happiness
+type: module
+description: A custom module with validation for a form element
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9
